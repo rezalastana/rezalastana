@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezalastana
-- 👀 I’m interested in BackEnd especially JAVA, PHP and JavaScript
+- 👀 I’m interested in BackEnd and FrontEnd -> PHP and JavaScript
 - 🌱 I’m currently learning Programming everyday, everytime
 - 📫 How to reach me at rezalastana21@gmail.com
 
