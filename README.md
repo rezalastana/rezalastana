@@ -10,13 +10,11 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 👀 I’m interested in BackEnd and FrontEnd -> `Laravel and JavaScript`.
+- 👀 I’m interested `Laravel and JavaScript`.
 
 - 🌱 I’m currently learning `MERN Stack`.
 
-👨‍💻 Life Hack: Learn new tech everyday, everytime, everywhere 🔥
-
-- ⚡ Fun fact: I waste most of my time playing games
+- 👨‍💻 Learn new tech everyday, everytime, everywhere 🔥
 
 ## 🛠️ Technologies and Tools I use:
 
