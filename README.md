@@ -11,7 +11,7 @@
 
 - 👀 I’m interested `Laravel and JavaScript`.
 
-- 🌱 I’m currently learning `MERN Stack`.
+- 🌱 I’m currently learning `Laravel Full-Stack JS`.
 
 - 👨‍💻 Learn new tech everyday, everytime, everywhere 🔥
 
