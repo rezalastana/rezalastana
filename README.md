@@ -17,7 +17,7 @@
 
 ## 🛠️ Technologies and Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,react,vue,nodejs,next,bootstrap&theme=light,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,react,vue,nodejs,next,tailwind,bootstrap&theme=light,)](https://skillicons.dev)
 
 ## ❤️ Let's get connected:
 
