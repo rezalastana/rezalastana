@@ -17,11 +17,14 @@
 
 ## 🛠️ Technologies and Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,js,react,vue,nodejs,next,tailwind,bootstrap&theme=light,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,react,vue,nodejs,tailwind,bootstrap)](https://skillicons.dev)
 
 ## ❤️ Let's get connected:
 
-<a href="https://www.linkedin.com/in/rezal-astana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
+<p align="">
+  <a href="https://www.linkedin.com/in/rezal-astana/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 <!---
