@@ -4,6 +4,7 @@
 ### About Me:
 
 ```python
+1. Web Developer, VisualSideID
 As a website developer,
 I am responsible for adding features and fixing bugs
 The technology used recently is Laravel and JavaScript.
