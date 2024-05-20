@@ -3,8 +3,8 @@
 
 ### About Me:
 
-```python
-1. Web Developer, VisualSideID
+```javascript
+1. Web Developer
 As a website developer,
 I am responsible for adding features and fixing bugs
 The stack used recently is Laravel and JavaScript.
