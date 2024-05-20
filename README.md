@@ -14,7 +14,7 @@ The stack used recently is PHP-(Laravel) and JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,react,vue,nodejs,tailwind,bootstrap)](https://skillicons.dev)
 
-### ❤️ Let's get connected:
+### Let's get connected:
 
 <p align="">
   <a href="https://www.linkedin.com/in/rezal-astana/" target="_blank">
