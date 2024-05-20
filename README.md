@@ -7,7 +7,7 @@
 1. Web Developer
 As a website developer,
 I am responsible for adding features and fixing bugs
-The stack used recently is Laravel and JavaScript.
+The stack used recently is PHP-(Laravel) and JavaScript.
 ```
 
 ### Technologies and Tools I use:
