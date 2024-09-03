@@ -13,7 +13,7 @@ The stack used recently is PHP-(Laravel) and JavaScript.
 ### Technologies and Tools I use:
 
 #### Back-end
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,nodejs,express,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,adonis)](https://skillicons.dev)
 
 #### Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
