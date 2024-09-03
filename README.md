@@ -12,7 +12,7 @@ The stack used recently is PHP-(Laravel) and JavaScript.
 
 ### Technologies and Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,react,vue,nodejs,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,react,vue,nodejs,express,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Let's get connected:
 
