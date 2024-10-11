@@ -19,7 +19,7 @@ The stack used recently is PHP-(Laravel) and JavaScript.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
 
 #### Database
-[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)](https://skillicons.dev)
+[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ### Let's get connected:
 
